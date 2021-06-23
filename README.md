@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/cacdigital/accent-string-regex-builder.svg?branch=master)](https://travis-ci.org/cacdigital/accent-string-regex-builder)
 [![License MIT](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/cacdigital/accent-string-regex-builder/blob/master/LICENSE)
-[![Packagist](http://img.shields.io/packagist/v/cacdigital/accent-string-regex-builder.svg?style=flat)](https://packagist.org/packages/cacdigital/accent-string-regex-builder)
+[![Packagist](http://img.shields.io/packagist/v/troupe-tecnologia/accent-string-regex-builder.svg?style=flat)](https://packagist.org/packages/troupe-tecnologia/accent-string-regex-builder)
 
 Simple helper to create a regex from string to match all the results ignoring accents.
 
