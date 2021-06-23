@@ -8,7 +8,7 @@ Simple helper to create a regex from string to match all the results ignoring ac
 
 ## Installation
 ```
-composer require cacdigital/accent-string-regex-builder
+composer require troupe-tecnologia/accent-string-regex-builder
 ```
     
 ## Usage
