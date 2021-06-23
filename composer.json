@@ -1,5 +1,5 @@
 {
-    "name": "cacdigital/accent-string-regex-builder",
+    "name": "troupe-tecnologia/accent-string-regex-builder",
     "description": "Simple helper to create a regex from string to match all the results ignoring accents.",
     "license": "MIT",
     "keywords": ["accent", "string", "regex"],
